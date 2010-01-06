@@ -1,0 +1,5 @@
+sdesc: "Colorizer for GCC warning/error messages"
+ldesc: "A Perl wrapper to colorize the output of compilers with warning and
+error messages matching the gcc output format."
+category: Devel Perl
+requires: cygwin perl

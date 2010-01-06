@@ -1,0 +1,46 @@
+From 102a1fd53f6f5224dc262fa3538f9bb0cc052284 Mon Sep 17 00:00:00 2001
+From: Jari Aalto <jari.aalto@cante.net>
+Date: Tue, 26 Feb 2008 22:30:55 +0200
+Subject: [PATCH] Manual page: remove word Debian
+
+Signed-off-by: Jari Aalto <jari.aalto@cante.net>
+---
+ colorgcc.1   |    5 ++---
+ colorgccrc.5 |    5 ++---
+ 2 files changed, 4 insertions(+), 6 deletions(-)
+
+diff --git a/colorgcc.1 b/colorgcc.1
+index 586866c..bbb3094 100644
+--- a/colorgcc.1
++++ b/colorgcc.1
+@@ -61,9 +61,8 @@ Report bugs to
+ Jamie Moyers <\fIjmoyers@geeks.com\fP> is the author of colorgcc.
+ .PP
+ This manual page was written by Joe Wreschnig <\fIpiman@sacredchao.net\fP>,
+-and modified by David Weinehall <\fItao@debian.org\fP>, for the
+-Debian GNU/Linux system (but may be used by others).
+-
++and modified by David Weinehall <\fItao@debian.org\fP>.
++  
+ .SH COPYRIGHT
+ Copyright \(co 2003 Jamie Moyers
+ .br
+diff --git a/colorgccrc.5 b/colorgccrc.5
+index 96b600e..6bb07a1 100644
+--- a/colorgccrc.5
++++ b/colorgccrc.5
+@@ -111,9 +111,8 @@ Report bugs to
+ Jamie Moyers <\fIjmoyers@geeks.com\fP> is the author of colorgcc.
+ .PP
+ This manual page was written by Joe Wreschnig <\fIpiman@sacredchao.net\fP>,
+-and modified by David Weinehall <\fItao@debian.org\fP>, for the
+-Debian GNU/Linux system (but may be used by others).
+-
++and modified by David Weinehall <\fItao@debian.org\fP>.
++ 
+ .SH COPYRIGHT
+ Copyright \(co 2003 Jamie Moyers
+ .br
+-- 
+1.5.3.8
+
