@@ -1,2 +1,2 @@
 tag1: colorgcc
-  http://packages.debian.org/unstable/colorgcc pregexp:orig.tar.gz filee:colorgcc_1.3.2.0.orig.tar.gz new: x:
+  http://packages.debian.org/unstable/colorgcc pregexp:orig.tar.gz file:colorgcc_1.3.2.0.orig.tar.gz new: x:
